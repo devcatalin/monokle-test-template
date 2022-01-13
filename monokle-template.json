@@ -1,14 +1,17 @@
 {
+  "name": "Minecraft Server",
   "id": "com.github.devcatalin.monokle-test-template",
-  "type": "templates/helm-chart",
-  "isReferenced": true,
+  "author": "Catalin",
+  "version": "1.0.0",
+  "description": "Create your own Minecraft server",
+  "type": "helm-chart",
   "forms": [
-    {
-      "name": "Minecraft Server (Test Template)",
-      "description": "Default settings for your Minecraft Server",
-      "schema": "form-schema.json",
-      "uiSchema": "form-ui-schema.json"
-    }
+      {
+          "name": "Minecraft Server",
+          "description": "Default settings for your Minecraft Server",
+          "schema": "form-schema.json",
+          "uiSchema": "form-ui-schema.json"
+      }
   ],
   "valuesFilePath": "values.yaml",
   "chartName": "minecraft",

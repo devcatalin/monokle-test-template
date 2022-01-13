@@ -1,0 +1,18 @@
+{
+  "id": "com.github.devcatalin.monokle-test-template",
+  "type": "templates/helm-chart",
+  "isReferenced": true,
+  "forms": [
+    {
+      "name": "Minecraft Server (Test Template)",
+      "description": "Default settings for your Minecraft Server",
+      "schema": "form-schema.json",
+      "uiSchema": "form-ui-schema.json"
+    }
+  ],
+  "valuesFilePath": "values.yaml",
+  "chartName": "minecraft",
+  "chartVersion": "3.6.1",
+  "chartRepo": "https://itzg.github.io/minecraft-server-charts/",
+  "helpUrl": "https://artifacthub.io/packages/helm/minecraft-server-charts/minecraft"
+}

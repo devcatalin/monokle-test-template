@@ -3,6 +3,7 @@
   "id": "com.github.devcatalin.monokle-test-template",
   "author": "Catalin",
   "version": "1.0.0",
+  "repository": "https://github.com/monokle-test-template",
   "description": "Create your own Minecraft server",
   "type": "helm-chart",
   "forms": [

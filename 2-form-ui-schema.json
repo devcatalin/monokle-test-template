@@ -1,0 +1,6 @@
+{
+  "version": {
+    "ui:title": "Minecraft Version",
+    "ui:help": "One of: LATEST, SNAPSHOT, or a specific version (ie: 1.7.9)"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "acceptEula": {
+    "ui:title": "Accept EULA",
+    "ui:help": "Whether or not to accept the EULA"
+  }
+}

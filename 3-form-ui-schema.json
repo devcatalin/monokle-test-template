@@ -1,0 +1,10 @@
+{
+  "maxPlayers": {
+    "ui:title": "Max players",
+    "ui:help": "Max connected players."
+  },
+  "persistWorlds": {
+    "ui:title": "Persist Worlds",
+    "ui:help": "Whether or not to persist the worlds between server restarts."
+  }
+}

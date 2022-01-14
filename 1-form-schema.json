@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "required": ["acceptEula"],
+  "properties": {
+    "acceptEula": {
+      "type": "boolean"
+    }
+  }
+}
